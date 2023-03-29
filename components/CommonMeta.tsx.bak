@@ -24,4 +24,5 @@ const CommonMeta: FC = () => {
     	</Head>
   	);
 };
+
 export default CommonMeta;
